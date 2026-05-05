@@ -1,0 +1,5 @@
+quotes_history.json
+pycache/
+*.pyc
+.DS_Store
+*.log
